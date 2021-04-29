@@ -1,3 +1,9 @@
+## Introduction
+
+Our team was tasked with finding the optimal amount of scooters for the Nashville area to provide to the Transportation Planning Committe to assist with micro-mobility density prediction. Our team divided up the work in to groups after brainstorming which directions we wanted to take to analyze the data. My gorup was tasked with analyizing the scooters by area of usage and providing actionable insights to add to our final suggestions. My group completed our work inside of Python. Below is a link to the presentation.
+
+[Scooters Presentation](data/Scooter_Solution.pdf)
+
 ## Transportation Planning for Nashville: How Many Scooters are Optimal?
  What is the ideal density of available scooters to:
 1.  Enable scooters to serve our transportation goals
